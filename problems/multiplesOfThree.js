@@ -14,3 +14,9 @@ const getSumOfMultiples = (n) => {
 }
 
 console.log(getSumOfMultiples(1000))
+
+
+
+// Solution
+// 1. loop over the numbers 1 to 999
+// 2. if the number is a multiple of 3 or 5, continuously add it to the sumOfMultiples variable 
