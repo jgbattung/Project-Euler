@@ -1,6 +1,6 @@
 # Project Euler Solutions
 
-![Project Euler Logo](https://projecteuler.net/images/clipart/euler_portrait.png)
+![Project Euler Logo][https://projecteuler.net/themes/logo_default.png)
 
 This repository contains my solutions to various problems from [Project Euler](https://projecteuler.net/). Project Euler is a collection of challenging mathematical/computer programming problems that require more than just mathematical insights to solve. These problems are a great way to improve your problem-solving skills, algorithmic thinking, and programming abilities.
 
@@ -30,5 +30,3 @@ Contributions to this repository are welcome! If you have a different or more op
 Please remember that Project Euler encourages independent problem-solving. While this repository provides solutions, it's recommended to attempt the problems on your own first before referring to the solutions.
 
 Happy coding and happy problem-solving!
-
-![Project Euler Badge](https://projecteuler.net/profile/YourUsername.png)
